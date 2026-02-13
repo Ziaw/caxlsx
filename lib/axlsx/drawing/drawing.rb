@@ -11,6 +11,7 @@ module Axlsx
   require_relative 'scatter_series'
   require_relative 'bubble_series'
   require_relative 'area_series'
+  require_relative 'radar_series'
 
   require_relative 'scaling'
   require_relative 'axis'
@@ -44,6 +45,7 @@ module Axlsx
   require_relative 'scatter_chart'
   require_relative 'bubble_chart'
   require_relative 'area_chart'
+  require_relative 'radar_chart'
 
   require_relative 'picture_locking'
   require_relative 'pic'
